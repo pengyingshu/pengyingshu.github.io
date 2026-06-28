@@ -1,0 +1,1 @@
+var e=`/assets/orchid/orchid_intro/greenhouse.webp`,t=`/assets/orchid/orchid_intro/greenhouse2.webp`,n=`/assets/orchid/orchid_intro/tissue%20culture.webp`;export{t as n,e as r,n as t};

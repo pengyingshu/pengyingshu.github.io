@@ -1,0 +1,1 @@
+var e=`/assets/orchid/orchid2024/collect.jpg`,t=`/assets/orchid/orchid2024/outline.jpg`,n=`/assets/orchid/orchid2024/distribution.jpg`,r=`/assets/orchid/orchid2024/result.jpg`;export{e as i,n,t as r,r as t};
